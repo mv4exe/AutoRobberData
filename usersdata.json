@@ -87,6 +87,14 @@
       "user_img": "sdfgsdfg",
       "sub_plan": "Free trial",
       "end_date": "2025-01-29 23:59:59"
+    },
+    {
+      "user_name": "MBV",
+      "discord_user": "usertest",
+      "mac_address": "00012123424",
+      "user_img": "https://example.com/default.png",
+      "sub_plan": "Weekly Warrior",
+      "end_date": "2025-01-20 18:46:54"
     }
   ]
 }
