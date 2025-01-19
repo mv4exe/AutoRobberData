@@ -1,12 +1,12 @@
 {
   "users": [
     {
-      "user_name": "Boold",
+      "user_name": "Boold 2",
       "discord_user": "mangaaa",
       "mac_address": "MueKjHIAN6Pp7TKd7wKYddVBvgdNPFiKN4ZGDrGiLo9DoOCkyvCkbpjnoIlObsAn",
       "user_img": "https://images-ext-1.discordapp.net/external/N1uOV0vPtEddx38VyvZEMSA2h-apOj_uBDbOz4sUpD4/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/581617388886425601/9b91be5dd634f376cbddc30be0ae5073.png?format=webp&quality=lossless",
       "sub_plan": "Free trial",
-      "end_date": "2034-01-19 17:11:23"
+      "end_date": "2034-01-20 17:11:23"
     },
     {
       "user_name": "MV",
@@ -103,5 +103,5 @@
       "end_date": "2025-01-23 18:54:21"
     }
   ],
-  "last_updated": "2025-01-19 18:59:30"
+  "last_updated": "2025-01-19 19:00:07"
 }
