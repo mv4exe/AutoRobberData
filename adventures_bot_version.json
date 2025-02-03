@@ -1,7 +1,9 @@
 {
   "version": [
     {
-      "update": "1.0.2",
-      "forceupdate": "1.0.1"
+      "update": "0.3.0",
+      "forceupdate": "0.2.0",
+      "update_link": "https://download1321.mediafire.com/d7uk2b3p1flgnQDL_BNdLQ09WRkMZqVP8gX8pvYNtALx2Y4mvjc9YZ3Ttdju89JsOw8snGtpMTq-Js-DuDt0B6JvcgQZh_23ZjEqn6BDXexVGDa4tMw2v-XNnpfFDZZQ0I5pN7LxDfCB61fhCwxgdMV-cUQdHcqQJoV1vKQf0vyI/b3q6wrd5kotmcg7/key_manager_gui%282%29.exe"
     }
-  ],
+  ]
+}
